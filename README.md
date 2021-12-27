@@ -1,7 +1,6 @@
 <h1 center> Hi 👋, I'm Yassine Cadi </h1>
 
-- 👋 Hi, I’m @yassinecadi <br>
-- 👀 I’m interested in coding <br> 
+- I’m 👀 interested in coding <br> 
 <!---
 - 🌱 I’m currently learning ... <br>
 - 💞️ I’m looking to collaborate on cool projects <br>
