@@ -1,5 +1,5 @@
 <hr>
-Hi 👋, I'm Yassine Cadi
+<h1 center> Hi 👋, I'm Yassine Cadi </h1>
 <hr>
 - 👋 Hi, I’m @yassinecadi
 - 👀 I’m interested in coding
