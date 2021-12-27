@@ -1,11 +1,10 @@
-<hr>
 <h1 center> Hi 👋, I'm Yassine Cadi </h1>
-<hr>
-- 👋 Hi, I’m @yassinecadi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me ...
+
+- 👋 Hi, I’m @yassinecadi <br>
+- 👀 I’m interested in coding <br>
+- 🌱 I’m currently learning ... <br>
+- 💞️ I’m looking to collaborate on cool projects <br>
+- 📫 How to reach me ... 
 
 <!---
 yassinecadi/yassinecadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
